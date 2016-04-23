@@ -1,0 +1,2 @@
+Loaded tiles: moon.tiles.bmp
+Loaded AI tiles: ai_tiles.bmp
